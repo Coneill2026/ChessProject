@@ -17,5 +17,9 @@ public class Main{
         window.add(gp);
         window.pack();
 
-    }
+        gp.launchGame();
+
+
+
+        }
 }
